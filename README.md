@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about learning new technologies, bu
 - 🤝 I'm looking to collaborate on **Cloud, DevOps, and Open Source Projects**
 - 💬 Ask me about **Git, Linux, Python, Microsoft Azure, and Cloud Fundamentals**
 - 🎯 My goal is to become a **Cloud & DevOps Engineer**
-- 📫 Reach me at **fadeyipeter002@mail.com**
+- 📫 Reach me at **fadeyipeter002@gmail.com**
 
 ---
 
